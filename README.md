@@ -1,4 +1,4 @@
-# Titanic Data Analysis – Internship Project
+# Rhombictexchnologies – Internship Project
 
 Analyzed the **Titanic dataset** to explore survival trends using **Python, Pandas, and Seaborn**.  
 This project includes:
